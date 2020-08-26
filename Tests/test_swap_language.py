@@ -1,5 +1,5 @@
 import unittest
-from .utils import swp_lng
+from utils.swap_language import swp_lng
 
 class MyTestCase(unittest.TestCase):
     def test_swp_lng_1(self):
